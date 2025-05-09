@@ -1,6 +1,5 @@
 | Model                      | Accuracy | Precision | Recall | F1 Score | AUC  |
 |----------------------------|----------|-----------|--------|----------|------|
-| **Base Models**            |          |           |        |          |      |
 | Base Decision Tree         | 0.78     | 0.45      | 0.48   | 0.46     | 0.66 |
 | Base SVM                   | 0.72     | 0.39      | 0.71   | 0.50     | 0.78 |
 | Base Logistic Regression   | 0.81     | 0.59      | 0.14   | 0.23     | 0.77 |
@@ -11,7 +10,6 @@
 
 | Model                      | Accuracy | Precision | Recall | F1 Score | AUC  |
 |----------------------------|----------|-----------|--------|----------|------|
-| **Tuned Models**           |          |           |        |          |      |
 | Tuned Decision Tree        | 0.86     | 0.82      | 0.37   | 0.51     | 0.84 |
 | Tuned SVM                  | 0.78     | 0.48      | 0.75   | 0.58     | 0.85 |
 | Tuned Logistic Regression  | 0.81     | 0.59      | 0.14   | 0.23     | 0.77 |
@@ -21,7 +19,6 @@
 
 | Model                      | Accuracy | Precision | Recall | F1 Score | AUC  |
 |----------------------------|----------|-----------|--------|----------|------|
-| **RFE Models**             |          |           |        |          |      |
 | RFE Decision Tree          | 0.78     | 0.45      | 0.48   | 0.46     | 0.66 |
 | RFE SVM                    | 0.72     | 0.39      | 0.71   | 0.50     | 0.78 |
 | RFE Logistic Regression    | 0.81     | 0.59      | 0.14   | 0.23     | 0.77 |
