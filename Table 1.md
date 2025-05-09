@@ -19,9 +19,8 @@
 
 | Model                      | Accuracy | Precision | Recall | F1 Score | AUC  |
 |----------------------------|----------|-----------|--------|----------|------|
-| RFE Decision Tree          | 0.78     | 0.45      | 0.48   | 0.46     | 0.66 |
-| RFE SVM                    | 0.72     | 0.39      | 0.71   | 0.50     | 0.78 |
-| RFE Logistic Regression    | 0.81     | 0.59      | 0.14   | 0.23     | 0.77 |
-| RFE Random Forest          | 0.86     | 0.79      | 0.46   | 0.58     | 0.85 |
-| RFE XGBoost                | 0.85     | 0.68      | 0.47   | 0.56     | 0.83 |
-
+| RFE Decision Tree          | 0.75     | 0.40      | 0.44   | 0.42     | 0.64 |
+| RFE SVM                    | 0.73     | 0.40      | 0.72   | 0.52     | 0.78 |
+| RFE Logistic Regression    | 0.81     | 0.61      | 0.16   | 0.25     | 0.77 |
+| RFE Random Forest          | 0.83     | 0.63      | 0.40   | 0.49     | 0.80 |
+| RFE XGBoost                | 0.86     | 0.73      | 0.49   | 0.59     | 0.84 |
